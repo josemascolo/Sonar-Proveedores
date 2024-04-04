@@ -1,1 +1,1 @@
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=rijmjada_SonarCloud&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=rijmjada_SonarCloud)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=josemascolo_Sonar-Proveedores&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=josemascolo_Sonar-Proveedores)
